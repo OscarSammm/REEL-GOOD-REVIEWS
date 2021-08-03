@@ -286,6 +286,8 @@ input:focus {
 
 .section-header {
   margin-bottom: 20px;
+  font-size: 18px;
+  text-transform: uppercase;
 }
 
 .section-header p {
@@ -342,7 +344,7 @@ input:focus {
 .movie-description-category {
   border-bottom: 1px solid #62a7b3;
   border-top: 1px solid #62a7b3;
-  letter-spacing: -1px;
+  letter-spacing: 1px;
   margin: 20px auto;
   padding: 10px;
   text-align: center;
