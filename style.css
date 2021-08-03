@@ -43,14 +43,17 @@ h6 {
 
 h1 {
   font-size: 37px;
+  color: #ffffff;
 }
 
 h2 {
   font-size: 30px;
+  color: #ffffff;
 }
 
 h3 {
   font-size: 18px;
+  color: #000;
 }
 
 p {
@@ -308,6 +311,10 @@ input:focus {
   color: #ffffff;
 }
 
+.featured-section-header {
+  color: #fff;
+}
+
 .movie-description-img,
 .movie-description {
   display: inline-block;
@@ -324,6 +331,8 @@ input:focus {
 
 .movie-description-stars {
   margin: 15px 0px;
+  font-size: 16px;
+  line-height: 16px;
 }
 
 .movie-description-button {
